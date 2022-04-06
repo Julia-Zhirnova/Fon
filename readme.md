@@ -1,5 +1,10 @@
 https://www.softportal.com/getsoft-41769-treesize-4.html
 QKP84-CVNM4-TBWMD-3R7BK-H6FX2
+N9J9Q-Q7MMP-XDDM6-63KKP-76FPM
+DT7V8-G783X-6YLCD-1PR7B-8DMBN
+VTTB8-VC47X-2DFNN-3CHJV-3FVCD
+Q3RGY-N8DQC-9FXSF-NFHUY-HUYE8
+GVS35-NHVJK-6GHCD-WRFB7-NF7NB
 https://www.microsoft.com/ru-RU/download/confirmation.aspx?id=101064
 http://thevisios.ru/
 https://barzunov.ru/2019/07/install-and-configure-veyon/
