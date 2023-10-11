@@ -6,4 +6,4 @@ https://www.microsoft.com/ru-RU/download/confirmation.aspx?id=101064
 http://thevisios.ru/
 https://barzunov.ru/2019/07/install-and-configure-veyon/
 https://drive.google.com/file/d/1RpFvn-xax0i-38XShbtNxjDiUajnYV12/view?usp=sharing
-новый ключ https://drive.google.com/file/d/1kBf7w6RuSs0BCu-Eb_T_CHJgX96cWr0V/view?usp=sharing
+новый ключ https://drive.google.com/file/d/1FAcoF-ujfy9dI2pCoqNGyjTYUxDmoNd_/view?usp=sharing
