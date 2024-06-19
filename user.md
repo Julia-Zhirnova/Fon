@@ -2,7 +2,7 @@ ctrl + l - очистка терминал
 3  sudo fdisk -l 
     4  sudo fdisk /dev/sda
 d - удаление раздела, p - проверка, n - номер раздела, enter - добавление памяти +300G, w - сохранить
-
+```
     5  sudo mkdir /home/user1
     6  sudo mkdir /home/user2
     7  sudo mkdir /home/user3
@@ -37,7 +37,9 @@ d - удаление раздела, p - проверка, n - номер раз
    39  sudo chmod 700 /home/user3
    40  reboot 
    41  history 
+```
 
+```
 [Unit]
 Description=mount user2
 
@@ -51,6 +53,6 @@ Type=ext4
 
 [Install]
 WantedBy=multi-user.target
-
+```
 
 https://youtu.be/YGCqeZh1HfQ
