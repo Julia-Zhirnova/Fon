@@ -1,5 +1,9 @@
 # Fon
 https://remontka.pro/litamanager-free-remote-desktop-software/?ysclid=lmfzwo9b1j549823205
+
+https://docs.google.com/document/d/1vxgWIKFuOPhAFZKVlFQjK8OMBMuYTvt8XFsYg5OiQAc/edit?usp=sharing
+
+
 sudo systemctl status display-manager.service
 Должен быть sddm.service
 Если не он, то
