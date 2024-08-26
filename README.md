@@ -3,37 +3,37 @@ https://remontka.pro/litamanager-free-remote-desktop-software/?ysclid=lmfzwo9b1j
 sudo systemctl status display-manager.service
 Должен быть sddm.service
 Если не он, то
-su
-dnf install sddm sddm-themes
-systemctl disable gdm
-systemctl enable sddm
-перезагрузить reboot
+<br>su
+<br>dnf install sddm sddm-themes
+<br>systemctl disable gdm
+<br>systemctl enable sddm
+<br>перезагрузить reboot
 
-su root
-dnf install x11vnc
-x11vnc -storepasswd "12345" /etc/vncpasswd
-nano /lib/systemd/system/x11vnc.service
+<br>su root
+<br>dnf install x11vnc
+<br>x11vnc -storepasswd "12345" /etc/vncpasswd
+<br>nano /lib/systemd/system/x11vnc.service
 
-[Unit]
-Description=x11vnc server for SDDM
-After=display-manager.service
+<br>[Unit]
+<br>Description=x11vnc server for SDDM
+<br>After=display-manager.service
 
-[Service]
-ExecStart=/bin/bash -c "/usr/bin/x11vnc -display :0 -many -shared -dontdisconnect -repeat -auth /run/sddm/xauth* -noxdamage -rfbauth /etc/vncpasswd"
-Restart=on-failure
-RestartSec=10
+<br>[Service]
+<br>ExecStart=/bin/bash -c "/usr/bin/x11vnc -display :0 -many -shared -dontdisconnect -repeat -auth /run/sddm/xauth* -noxdamage -rfbauth /etc/vncpasswd"
+<br>Restart=on-failure
+<br>RestartSec=10
 
-[Install]
-WantedBy=graphical.target
+<br>[Install]
+<br>WantedBy=graphical.target
 
-systemctl daemon-reload
-systemctl enable x11vnc.service
-systemctl start x11vnc.service
-systemctl status x11vnc.service
+<br>systemctl daemon-reload
+<br>systemctl enable x11vnc.service
+<br>systemctl start x11vnc.service
+<br>systemctl status x11vnc.service
 
 ИЛИ
-systemctl --full --force edit x11vnc
-systemctl daemon-reload
-systemctl restart x11vnc
-systemctl status x11vnc
-systemctl reenable x11vnc
+<br>systemctl --full --force edit x11vnc
+<br>systemctl daemon-reload
+<br>systemctl restart x11vnc
+<br>systemctl status x11vnc
+<br>systemctl reenable x11vnc
