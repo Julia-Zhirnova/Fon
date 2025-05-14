@@ -21,7 +21,7 @@
 <br><img src="https://github.com/user-attachments/assets/c7877c47-9aea-45ad-a6e1-b7b945cafc4e" width="400" />
 
 5. Настройка прокси: открыть chromium и перейти в настройки. В поиск вввести серт, перейти в безопасность, настроить сертификаты, центры сертификации, импорт, выбрать файл и поставить ВСЕ галочки
-![image](https://github.com/user-attachments/assets/e54893e5-c8e0-401a-bfa1-9c2b09ae855c) ![image](https://github.com/user-attachments/assets/75761b81-92a9-41f4-8884-1fbc36f146f4) ![image](https://github.com/user-attachments/assets/72276565-9279-4ad2-b3fa-796d48ec9736) ![image](https://github.com/user-attachments/assets/64fc0dd0-0c4a-44a2-ac83-8490378f4131) ![image](https://github.com/user-attachments/assets/3adb24b1-cb96-4435-ba64-c952e5fa743d)
+<br><img src="https://github.com/user-attachments/assets/e54893e5-c8e0-401a-bfa1-9c2b09ae855c" width="400" /> <img src="https://github.com/user-attachments/assets/75761b81-92a9-41f4-8884-1fbc36f146f4" width="400" /> <img src="https://github.com/user-attachments/assets/72276565-9279-4ad2-b3fa-796d48ec9736" width="400" /> <img src="https://github.com/user-attachments/assets/64fc0dd0-0c4a-44a2-ac83-8490378f4131" width="400" /> <img src="https://github.com/user-attachments/assets/3adb24b1-cb96-4435-ba64-c952e5fa743d" width="400" />
 
 
 
